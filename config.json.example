@@ -1,0 +1,11 @@
+{
+  "username":"xxx",
+  "password":"xxx",
+  "server":"xxx",
+  "farmer":[
+    {
+      "village":"xxx",
+      "list":"xxx"
+    }
+  ]
+}
